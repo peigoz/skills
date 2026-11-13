@@ -12,4 +12,4 @@
 
 ## 使用
 
-在支持 skills 的 Agent（如 Claude Code）中直接按名称调用，例如 `/sigma 教我Rust`；详细参数见各 skill 的 `SKILL.md`。
+在支持 skills 的 Agent（如 Claude Code）中直接按名称调用，例如 `/text-to-image 生成一个风景画`；详细参数见各 skill 的 `SKILL.md`。
